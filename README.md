@@ -6,7 +6,7 @@
 
   <p><img src="https://i.imgur.com/A6bWGFl.gif" alt="Resim 1"/></p>
   <img align="right" alt="Coding" width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
-  <p><img align:"right" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="200" height="200" alt="Resim 2"/></p>
+
 
 
 
