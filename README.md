@@ -1,5 +1,6 @@
 ### Hi there 🤘🏻, M.Feyza Yıldırım
 #### Software Developer | Full Stack Developer
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 - <p align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"/>
 
