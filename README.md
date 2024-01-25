@@ -2,7 +2,7 @@
 #### Software Developer | Full Stack Developer
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
-- <p align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"/>
+- <p align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"  width="200" height="200"/>
 
 # 💫 About Me:
 🌐 About Me<br><br>💻 I specialize in frontend and backend development using JavaScript, React, and Node.js. My passion for learning and research drives me to constantly push the boundaries of knowledge and seek out new discoveries.<br><br>🚀 My Goals and Interests<br><br>📚 I enjoy reading books and exploring historical sites. Traveling to different countries to experience their cultural richness firsthand is a significant passion of mine.<br>🌍 Learning about diverse cultures and lifestyles broadens my worldview.<br><br>💡 What I'm Currently Working On<br><br>📱 I'm keeping up with different technologies in the software field and am taking courses to become an iOS developer. I'm committed to continuous self-improvement in this area.<br>🛠 I'm also working on various freelance projects, gaining experiences that enhance my professional skills.
